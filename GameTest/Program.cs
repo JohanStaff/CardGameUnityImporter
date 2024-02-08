@@ -365,6 +365,7 @@ TextureImporter:
         Queue<dynamic> ob = new Queue<dynamic>();
 
         bool over = false;
+        int haha = 0;
         double passtime = 0;
         Stopwatch pt = new(), tq = new(), tw = new(), overall_time = new(); 
         overall_time.Start();
@@ -382,7 +383,8 @@ Writing Queue {writing_queue.Count}
 Pass time {pt.Elapsed.TotalSeconds}s
 Queueing time {tq.Elapsed.TotalSeconds}s
 Writing time {tw.Elapsed.TotalSeconds}s
-Overall time {overall_time.Elapsed.ToString("mm\\:ss")}"
+Overall time {overall_time.Elapsed.ToString("mm\\:ss")}
+Hahas {haha}"
 );
                 prev = saved_count;
                 await Task.Delay(50);
@@ -425,59 +427,62 @@ Overall time {overall_time.Elapsed.ToString("mm\\:ss")}"
 
         using(StreamReader sr = new(path)) {
             string line = string.Empty;
+            int read = 0;
             int braces = 0;
             ulong iters = 0;
+            char[] buffer = new char[1000];
 
-            while((line = sr.ReadLine()) is not null) {
+
+            while((read = sr.ReadBlock(buffer, 0, 1000)) > 0) {
                 bool eng = false;
                 pt.Restart();
 
-                    check_again: 
-                    while(ob.Count > 0) {
-                        dynamic dequeued = ob.Dequeue();
-                        string full_path = $"{final_path}/{((string)dequeued.set_name).Replace(' ', '_')}";
+                check_again: 
+                while(ob.Count > 0) {
+                    dynamic dequeued = ob.Dequeue();
+                    string full_path = $"{final_path}/{((string)dequeued.set_name).Replace(' ', '_')}";
 
-                        while (dequeued_tasks.Count > 6) {
-                            for(int i = 0; i < dequeued_tasks.Count; i = i > 0 ? i : 0) {
-                                if(dequeued_tasks[i].IsCompleted) {
-                                    dequeued_tasks.RemoveAt(i--);
-                                    continue;
-                                }
-                                i++;
+                    while (dequeued_tasks.Count > 6) {
+                        for(int i = 0; i < dequeued_tasks.Count; i = i > 0 ? i : 0) {
+                            if(dequeued_tasks[i].IsCompleted) {
+                                dequeued_tasks.RemoveAt(i--);
+                                continue;
                             }
+                            i++;
                         }
-                        dequeued_tasks.Add(new Task(() => { 
-                            string image_guid = ((string)dequeued.id).Replace("-", string.Empty);
-                            PutToQueue(GenerateImage(full_path, dequeued.id, image_guid));
-                            PutToQueue(GenerateYaml(full_path, dequeued, image_guid)); 
-                        }));
-                        dequeued_tasks.Last().Start();
                     }
+                    dequeued_tasks.Add(new Task(() => { 
+                        string image_guid = ((string)dequeued.id).Replace("-", string.Empty);
+                        PutToQueue(GenerateImage(full_path, dequeued.id, image_guid));
+                        PutToQueue(GenerateYaml(full_path, dequeued, image_guid)); 
+                    }));
+                    dequeued_tasks.Last().Start();
+                }
 
-                    ob.Clear();
+                ob.Clear();
 
                 cont:
 
-                for(int i = 0; i < line.Length; i++){
-                    if(line[i] == '"' && i + 2 < line.Length) {
-                        if(line[i+1] == 'e') {
-                            if(line[i+2] == 'n') {
+                for(int i = 0; i < read; i++){
+                    if(buffer[i] == '"' && i + 2 < buffer.Length) {
+                        if(buffer[i+1] == 'e') {
+                            if(buffer[i+2] == 'n') {
                                 eng = true;
                             }
                         }
                     }
                     
-                    if(line[i] == '{') {
+                    if(buffer[i] == '{') {
                         braces++;
                     }
                     if(braces == 0) {
                         continue;
                     }
-                    if(line[i] == '}') {
+                    if(buffer[i] == '}') {
                         braces--;
 
                         if(braces == 0) {
-                            builder.Append(line[i]);
+                            builder.Append(buffer[i]);
 
                             if(eng) {
                                 var expandoObjectConverter = new ExpandoObjectConverter();
@@ -494,11 +499,13 @@ Overall time {overall_time.Elapsed.ToString("mm\\:ss")}"
                     }
 
                     builder.Append(
-                        line[i] == '*' ? "STAR" : line[i]
+                        buffer[i] == '*' ? "STAR" : buffer[i]
                     );
 
-                    if(i == line.Length - 1 && braces > 0) {
-                        line = sr.ReadLine() ?? string.Empty;
+                    if(i == read - 1 && braces > 0) {
+                        sr.ReadBlock(buffer, 0, 1000);
+                        haha++;
+                        i = -1;
                     }
                 }
             }
