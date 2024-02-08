@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pxkQyx3hVTJcojSl2e/je2hHrlaDNNSK+piBwNAqn/aKDIYqoG/Pdp3POlDl71kck6qvBKAHltnh4V3JyPqFyg==",
+  "success": true,
+  "projectFilePath": "/Users/ivanbadikov/ProjectsCSharp/ConverterTest/GameTest/GameTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanbadikov/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/ivanbadikov/.nuget/packages/yamldotnet/15.1.1/yamldotnet.15.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,603 @@
+Already saved: 00000
+Speed 0 files/s 
+Tasks 0
+Dequeued Tasks 0
+Writing Queue 0
+Pass time 0.0091429s
+Queueing time 0.0103417s
+Writing time 0.0099289s
+Overall time 00:00
+Already saved: 00000
+Speed 0 files/s 
+Tasks 0
+Dequeued Tasks 7
+Writing Queue 6
+Pass time 0.0061707s
+Queueing time 0.0681127s
+Writing time 0.0676995s
+Overall time 00:00
+Already saved: 00007
+Speed 140 files/s 
+Tasks 0
+Dequeued Tasks 7
+Writing Queue 0
+Pass time 0.0574506s
+Queueing time 0.0481554s
+Writing time 2.75E-05s
+Overall time 00:00
+Already saved: 00007
+Speed 0 files/s 
+Tasks 0
+Dequeued Tasks 7
+Writing Queue 21
+Pass time 2.6E-06s
+Queueing time 0.0028132s
+Writing time 0.0590971s
+Overall time 00:00
+Already saved: 00029
+Speed 440 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 1
+Pass time 7.83E-05s
+Queueing time 0.0006302s
+Writing time 0.0006009s
+Overall time 00:00
+Already saved: 00052
+Speed 440 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 22
+Pass time 0.0067996s
+Queueing time 0.0514421s
+Writing time 0.0514124s
+Overall time 00:00
+Already saved: 00074
+Speed 440 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 0
+Pass time 0.0011497s
+Queueing time 0.0482051s
+Writing time 2.67E-05s
+Overall time 00:00
+Already saved: 00105
+Speed 620 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 0
+Pass time 0.002426s
+Queueing time 0.0479181s
+Writing time 3.72E-05s
+Overall time 00:00
+Already saved: 00134
+Speed 580 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 27
+Pass time 0.0016712s
+Queueing time 0.0419157s
+Writing time 3.7E-06s
+Overall time 00:00
+Already saved: 00162
+Speed 560 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 1
+Pass time 5.2E-05s
+Queueing time 0.0425792s
+Writing time 0.0003254s
+Overall time 00:00
+Already saved: 00192
+Speed 600 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 32
+Pass time 0.0016127s
+Queueing time 0.0414362s
+Writing time 0.0518445s
+Overall time 00:00
+Already saved: 00246
+Speed 1080 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 3
+Pass time 0.0012965s
+Queueing time 4.14E-05s
+Writing time 0.0058377s
+Overall time 00:00
+Already saved: 00272
+Speed 520 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 1
+Pass time 0.0035047s
+Queueing time 0.051901s
+Writing time 0.0037677s
+Overall time 00:00
+Already saved: 00281
+Speed 180 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 1
+Pass time 0.000595s
+Queueing time 0.051345s
+Writing time 0.0009141s
+Overall time 00:00
+Already saved: 00304
+Speed 460 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 0
+Pass time 0.0313946s
+Queueing time 0.0007737s
+Writing time 0.0007364s
+Overall time 00:00
+Already saved: 00319
+Speed 300 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 2
+Pass time 0.0608823s
+Queueing time 0.0780109s
+Writing time 0.0779732s
+Overall time 00:00
+Already saved: 00333
+Speed 280 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 3
+Pass time 0.0024225s
+Queueing time 6.39E-05s
+Writing time 0.0062985s
+Overall time 00:00
+Already saved: 00343
+Speed 200 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 2
+Pass time 0.0035032s
+Queueing time 0.0001328s
+Writing time 0.007831s
+Overall time 00:00
+Already saved: 00378
+Speed 700 files/s 
+Tasks 1
+Dequeued Tasks 6
+Writing Queue 4
+Pass time 0.005329s
+Queueing time 4.31E-05s
+Writing time 0.0094855s
+Overall time 00:01
+Already saved: 00411
+Speed 660 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 3
+Pass time 0.013751s
+Queueing time 1.3E-05s
+Writing time 0.0139378s
+Overall time 00:01
+Already saved: 00442
+Speed 620 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 6
+Pass time 0.0003729s
+Queueing time 0.0534707s
+Writing time 0.0148378s
+Overall time 00:01
+Already saved: 00464
+Speed 440 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 9
+Pass time 0.0040865s
+Queueing time 0.0468574s
+Writing time 0.0148828s
+Overall time 00:01
+Already saved: 00498
+Speed 680 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 10
+Pass time 0.0015668s
+Queueing time 0.0482956s
+Writing time 0.0173934s
+Overall time 00:01
+Already saved: 00524
+Speed 520 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 5
+Pass time 0.0008908s
+Queueing time 0.0501522s
+Writing time 0.0171795s
+Overall time 00:01
+Already saved: 00549
+Speed 500 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 10
+Pass time 0.010121s
+Queueing time 1.67E-05s
+Writing time 0.018142s
+Overall time 00:01
+Already saved: 00581
+Speed 640 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 12
+Pass time 0.0013737s
+Queueing time 0.0044812s
+Writing time 0.0258829s
+Overall time 00:01
+Already saved: 00607
+Speed 520 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 13
+Pass time 0.0005065s
+Queueing time 3.58E-05s
+Writing time 0.0254187s
+Overall time 00:01
+Already saved: 00635
+Speed 560 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 13
+Pass time 0.0057557s
+Queueing time 0.0550448s
+Writing time 0.0283659s
+Overall time 00:01
+Already saved: 00662
+Speed 540 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 15
+Pass time 0.0103638s
+Queueing time 0.0538505s
+Writing time 0.0317562s
+Overall time 00:01
+Already saved: 00691
+Speed 580 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 19
+Pass time 9.25E-05s
+Queueing time 1.46E-05s
+Writing time 0.0308138s
+Overall time 00:01
+Already saved: 00722
+Speed 620 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 13
+Pass time 3.51E-05s
+Queueing time 0.0527064s
+Writing time 0.0306438s
+Overall time 00:01
+Already saved: 00743
+Speed 420 files/s 
+Tasks 1
+Dequeued Tasks 6
+Writing Queue 12
+Pass time 0.0035463s
+Queueing time 0.000362s
+Writing time 0.0323001s
+Overall time 00:01
+Already saved: 00761
+Speed 360 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 2
+Pass time 0.0091378s
+Queueing time 0.0534112s
+Writing time 0.0284716s
+Overall time 00:01
+Already saved: 00778
+Speed 340 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 12
+Pass time 0.0001216s
+Queueing time 0.0009661s
+Writing time 0.0300695s
+Overall time 00:01
+Already saved: 00800
+Speed 440 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 13
+Pass time 0.0041902s
+Queueing time 0.0006089s
+Writing time 0.0257646s
+Overall time 00:01
+Already saved: 00827
+Speed 540 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 5
+Pass time 0.0008717s
+Queueing time 0.0520051s
+Writing time 0.0251727s
+Overall time 00:01
+Already saved: 00842
+Speed 300 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 6
+Pass time 0.0055705s
+Queueing time 5.59E-05s
+Writing time 0.0277834s
+Overall time 00:01
+Already saved: 00852
+Speed 200 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 16
+Pass time 0.0072702s
+Queueing time 0.0564072s
+Writing time 0.0305593s
+Overall time 00:02
+Already saved: 00882
+Speed 600 files/s 
+Tasks 1
+Dequeued Tasks 4
+Writing Queue 17
+Pass time 6.7E-05s
+Queueing time 1.66E-05s
+Writing time 0.0248518s
+Overall time 00:02
+Already saved: 00913
+Speed 620 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 10
+Pass time 0.001403s
+Queueing time 0.0502584s
+Writing time 0.0230976s
+Overall time 00:02
+Already saved: 00926
+Speed 260 files/s 
+Tasks 1
+Dequeued Tasks 4
+Writing Queue 14
+Pass time 4.32E-05s
+Queueing time 0.0517382s
+Writing time 0.0233167s
+Overall time 00:02
+Already saved: 00956
+Speed 600 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 15
+Pass time 0.0091233s
+Queueing time 1.67E-05s
+Writing time 0.0295889s
+Overall time 00:02
+Already saved: 00985
+Speed 580 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 15
+Pass time 0.0048027s
+Queueing time 0.0502802s
+Writing time 0.0254116s
+Overall time 00:02
+Already saved: 01021
+Speed 720 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 12
+Pass time 0.0003317s
+Queueing time 0.0497105s
+Writing time 0.022817s
+Overall time 00:02
+Already saved: 01052
+Speed 620 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 15
+Pass time 0.0028557s
+Queueing time 0.0509025s
+Writing time 0.0227213s
+Overall time 00:02
+Already saved: 01084
+Speed 640 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 13
+Pass time 0.005391s
+Queueing time 1.65E-05s
+Writing time 0.021216s
+Overall time 00:02
+Already saved: 01115
+Speed 620 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 16
+Pass time 0.0011271s
+Queueing time 0.0539621s
+Writing time 0.0219387s
+Overall time 00:02
+Already saved: 01150
+Speed 700 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 18
+Pass time 0.0025412s
+Queueing time 0.0042604s
+Writing time 0.0278835s
+Overall time 00:02
+Already saved: 01151
+Speed 20 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 10
+Pass time 0.015304s
+Queueing time 2.42E-05s
+Writing time 0.027899s
+Overall time 00:02
+Already saved: 01201
+Speed 1000 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 13
+Pass time 0.0007142s
+Queueing time 0.0516668s
+Writing time 0.0275957s
+Overall time 00:02
+Already saved: 01228
+Speed 540 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 15
+Pass time 1.4E-05s
+Queueing time 0.0063305s
+Writing time 0.0329512s
+Overall time 00:02
+Already saved: 01253
+Speed 500 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 18
+Pass time 0.0056807s
+Queueing time 0.0067055s
+Writing time 0.0327434s
+Overall time 00:02
+Already saved: 01281
+Speed 560 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 18
+Pass time 0.0036383s
+Queueing time 0.009374s
+Writing time 0.0368838s
+Overall time 00:02
+Already saved: 01309
+Speed 560 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 19
+Pass time 0.0046168s
+Queueing time 0.0101469s
+Writing time 0.0375465s
+Overall time 00:02
+Already saved: 01333
+Speed 480 files/s 
+Tasks 1
+Dequeued Tasks 6
+Writing Queue 20
+Pass time 3.83E-05s
+Queueing time 0.0101949s
+Writing time 0.0375488s
+Overall time 00:02
+Already saved: 01362
+Speed 580 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 13
+Pass time 0.0081246s
+Queueing time 0.0004804s
+Writing time 0.0330327s
+Overall time 00:03
+Already saved: 01388
+Speed 520 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 13
+Pass time 0.0119027s
+Queueing time 0.0516857s
+Writing time 0.0285758s
+Overall time 00:03
+Already saved: 01416
+Speed 560 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 11
+Pass time 0.0006164s
+Queueing time 0.0013589s
+Writing time 0.0248392s
+Overall time 00:03
+Already saved: 01442
+Speed 520 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 7
+Pass time 0.0001417s
+Queueing time 1.92E-05s
+Writing time 0.0265436s
+Overall time 00:03
+Already saved: 01460
+Speed 360 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 10
+Pass time 0.0010432s
+Queueing time 0.0519911s
+Writing time 0.023679s
+Overall time 00:03
+Already saved: 01481
+Speed 420 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 17
+Pass time 0.0013478s
+Queueing time 0.0018308s
+Writing time 0.0265704s
+Overall time 00:03
+Already saved: 01513
+Speed 640 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 14
+Pass time 9.61E-05s
+Queueing time 1.33E-05s
+Writing time 0.0263604s
+Overall time 00:03
+Already saved: 01544
+Speed 620 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 14
+Pass time 0.0011621s
+Queueing time 0.0515085s
+Writing time 0.0208769s
+Overall time 00:03
+Already saved: 01574
+Speed 600 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 11
+Pass time 0.0002991s
+Queueing time 1.27E-05s
+Writing time 0.0242627s
+Overall time 00:03
+Already saved: 01600
+Speed 520 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 14
+Pass time 0.0039811s
+Queueing time 0.0545196s
+Writing time 0.0270777s
+Overall time 00:03
+Already saved: 01627
+Speed 540 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 7
+Pass time 0.0058356s
+Queueing time 0.0599361s
+Writing time 0.0348018s
+Overall time 00:03
+Already saved: 01645
+Speed 360 files/s 
+Tasks 1
+Dequeued Tasks 7
+Writing Queue 20
+Pass time 0.0011292s
+Queueing time 0.0013912s
+Writing time 0.0340318s
+Overall time 00:03
